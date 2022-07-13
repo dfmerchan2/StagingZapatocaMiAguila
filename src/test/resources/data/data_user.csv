@@ -1,0 +1,4 @@
+id;filterId;name        ;firstSurname;secondSurname;documentType         ;documentNumber;email                          ;phone     ;password
+1 ;Person  ;Juan  Camilo;Perez       ;Rodrigez     ;Cédula de ciudadanía ;10000000121   ;TestAutomationCc%s@yopmail.com ;3110000001;Test123456
+2 ;Company ;Maria Paula ;Hernandez   ;Escamilla    ;NIT                  ;10000000122   ;TestAutomationNit%s@yopmail.com;3220000001;Test123456
+3 ;Abroad  ;Jose Antonio;Zamora      ;Garzon       ;Cédula de extranjería;10000000123   ;TestAutomationCe%s@yopmail.com ;3330000001;Test123456
